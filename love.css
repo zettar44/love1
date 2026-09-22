@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+    
+  font-family: 'Impact', sans-serif; /* Подойдет любой жирный шрифт */
+  font-size: 30px;
+  color: #000;
+  /* Многослойная красная тень создает эффект неонового адского свечения */
+  text-shadow: 
+    0 0 5px #ff0000, 
+    0 0 10px #ff0000, 
+    0 0 20px #990000, 
+    0 0 40px #550000;
+}
+
+
+
+img {
+    width: 400px;
+
+}
